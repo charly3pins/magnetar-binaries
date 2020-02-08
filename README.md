@@ -1,2 +1,2 @@
-# quasar-binaries
-Cross-compiled Quasar binaries used in plugin.video.quasar
+# magnetar-binaries
+Cross-compiled Magnetar binaries used in plugin.video.magnetar
